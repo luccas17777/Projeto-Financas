@@ -1,0 +1,15 @@
+com\ibm\financas\model\mpastruct\Mapstructs.class
+com\ibm\financas\model\exception\ExceptionConfig$ExceptionError.class
+com\ibm\financas\FinancasApplication.class
+com\ibm\financas\model\dto\RootDTO.class
+com\ibm\financas\controller\FinancasController.class
+com\ibm\financas\model\repositories\RepositoryFinancas.class
+com\ibm\financas\model\exception\ExceptionConfig.class
+com\ibm\financas\model\entities\Financas.class
+com\ibm\financas\model\request\Request.class
+com\ibm\financas\model\config\SwaggerConfig.class
+com\ibm\financas\model\service\FinancasService.class
+com\ibm\financas\model\dto\FinancasDTO.class
+com\ibm\financas\model\repositories\ClientFeign.class
+com\ibm\financas\model\mpastruct\MapstructsImpl.class
+com\ibm\financas\model\response\Response.class

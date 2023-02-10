@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ibm.financas.FinancasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.373 s - in com.ibm.financas.FinancasApplicationTests
